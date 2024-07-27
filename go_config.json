@@ -1,0 +1,9 @@
+{
+	"server_port": "8083",
+	"db_type": "mariadb",
+	"db_name": "task_management",
+	"db_user": "task_management_user",
+	"db_password": "task_management",
+	"db_host": "localhost",
+	"db_port": "3306"
+}
